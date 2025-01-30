@@ -1,13 +1,26 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class CheckAnagrams_11 {
+public class CheckAnagrams {
     public static boolean isAnagram(String str1, String str2) {
-        char[] arr1 = str1.replaceAll("\\s", "").toCharArray();
-        char[] arr2 = str2.replaceAll("\\s", "").toCharArray();
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
-        return Arrays.equals(arr1, arr2);
+        int[] freq = new int[256];
+
+        str1 = str1.toLowerCase();
+        str2 = str2.toLowerCase();
+
+        for (char ch : str1.toCharArray()) {
+            if (ch != ' ')
+                freq[ch]++;
+        }
+        for (char ch : str2.toCharArray()) {
+            if (ch != ' ')
+                freq[ch]--;
+        }
+
+        for (int count : freq) {
+            if (count != 0)
+                return false;
+        }
+        return true;
     }
 
     public static void main(String[] args) {

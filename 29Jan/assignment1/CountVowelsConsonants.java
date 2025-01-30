@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountVowelsConsonants_01 {
+public class CountVowelsConsonants {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");

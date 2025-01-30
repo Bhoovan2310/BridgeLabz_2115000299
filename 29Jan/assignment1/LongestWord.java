@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LongestWord_05 {
+public class LongestWord {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a sentence: ");

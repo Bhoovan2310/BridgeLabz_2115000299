@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReplaceWord_12 {
+public class ReplaceWord {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a sentence: ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MostFrequentCharacter_09 {
+public class MostFrequentCharacter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");

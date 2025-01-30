@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SubstringOccurrences_06 {
+public class SubstringOccurrences {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
