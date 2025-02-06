@@ -141,3 +141,19 @@ This repository contains the progress and work done for the Java learning journe
 	- final keywords for variables, methods and classes.
 	- instanceof operator for type checking.
 - Updated solutions and documented key learnings in README.md.
+
+
+
+### Date: 06-02-2025  
+
+- Topics Covered
+	- Class Diagram** - Shows the structure of classes and their relationships.  
+	- Object Diagram** - Represents real-time instances of classes.  
+	- Sequence Diagram** - Illustrates how objects interact step by step.  
+
+- Updates  
+	- Created **Class, Object, and Sequence Diagrams**.  
+	- Explained relationships and interactions between classes.  
+	- Added UML diagrams for better understanding.  
+	- Updated `README.md` with key learnings.  
+
