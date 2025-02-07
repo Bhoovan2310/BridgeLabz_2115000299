@@ -157,3 +157,13 @@ This repository contains the progress and work done for the Java learning journe
 	- Added UML diagrams for better understanding.  
 	- Updated `README.md` with key learnings.  
 
+
+### Date: 07-02-2025
+
+- Topics Covered:
+	- Single-Level, Multilevel, and Hierarchical Inheritance
+	- Key Features of Inheritance
+	- Method Overriding & Constructor Inheritance
+	- Polymorphism & Access Modifiers in Inheritance
+- Updates
+	- Updated solutions and documented key learnings in README.md.
