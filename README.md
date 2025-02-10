@@ -167,3 +167,18 @@ This repository contains the progress and work done for the Java learning journe
 	- Polymorphism & Access Modifiers in Inheritance
 - Updates
 	- Updated solutions and documented key learnings in README.md.
+
+
+### Date: 10-02-2025  
+
+- Updates:  
+	- Completed the assignment on Encapsulation, Polymorphism, Interface, and Abstract Class.  
+	- Uploaded the assignment to a separate GitHub branch.  
+	- Merged or planned to merge updates into the main branch.  
+	- Updated the `README.md` file to reflect the latest changes.  
+- Reviewed key concepts and implementations of:  
+  	- Encapsulation  
+  	- Polymorphism  
+  	- Interfaces  
+  	- Abstract Classes  
+	- Started exploring advanced Java OOP concepts through hands-on practice. 
