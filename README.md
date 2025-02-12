@@ -182,3 +182,16 @@ This repository contains the progress and work done for the Java learning journe
   	- Interfaces  
   	- Abstract Classes  
 	- Started exploring advanced Java OOP concepts through hands-on practice. 
+
+
+### Date: 12-02-2025
+
+- Updates:
+	- Completed an assignment on Single Linked List, Double Linked List, and Circular Linked List.
+	- Pushed the assignment to GitHub.
+	- Updated the README.md file to reflect the latest changes.
+- Reviewed key concepts and implementations of:
+  	- Single Linked List
+  	- Double Linked List
+  	- Circular Linked List
+	- Continuing hands-on practice with linked list data structures.
