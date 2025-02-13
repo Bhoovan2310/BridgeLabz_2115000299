@@ -195,3 +195,15 @@ This repository contains the progress and work done for the Java learning journe
   	- Double Linked List
   	- Circular Linked List
 	- Continuing hands-on practice with linked list data structures.
+
+
+### Date: 13-02-2025
+
+- Topic Covered:
+	- Stack, Queue, HashMap, and Hashing Function
+- Practice Work:
+	- Implemented Stack and Queue operations.
+	- Implemented HashMap and designed a custom Hashing Function.
+	- Pushed the assignment to a GitHub branch and updated the README.md with key learnings.
+- Ongoing Learning:
+	- Exploring advanced Java OOP concepts through hands-on practice.
