@@ -207,3 +207,14 @@ This repository contains the progress and work done for the Java learning journe
 	- Pushed the assignment to a GitHub branch and updated the README.md with key learnings.
 - Ongoing Learning:
 	- Exploring advanced Java OOP concepts through hands-on practice.
+
+
+### Date: 14-02-2025
+
+- Topic Covered:
+	- Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Counting Sort
+- Practice Work:
+	- Implemented and tested various sorting algorithms.
+	- Pushed the assignment to a GitHub branch and updated the README.md with key learnings.
+- Ongoing Learning:
+	- Continuing hands-on practice with advanced Java OOP concepts and algorithm implementations.
