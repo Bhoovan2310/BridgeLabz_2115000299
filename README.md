@@ -218,3 +218,18 @@ This repository contains the progress and work done for the Java learning journe
 	- Pushed the assignment to a GitHub branch and updated the README.md with key learnings.
 - Ongoing Learning:
 	- Continuing hands-on practice with advanced Java OOP concepts and algorithm implementations.
+
+
+### Date: 16-02-2025
+
+- Topic Covered:
+	- StringBuilder, StringBuffer
+	- FileReader, InputStreamReader
+	- Linear Search, Binary Search
+- Practice Work:
+	- Implemented and tested string manipulation using `StringBuilder` and `StringBuffer`.
+	- Worked with file handling using `FileReader` and `InputStreamReader`.
+	- Implemented and tested `Linear Search` and `Binary Search` algorithms.
+	- Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.
+- Ongoing Learning:
+	- Continuing hands-on practice with advanced Java concepts, file handling, and algorithm implementations.
