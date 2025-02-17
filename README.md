@@ -233,3 +233,25 @@ This repository contains the progress and work done for the Java learning journe
 	- Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.
 - Ongoing Learning:
 	- Continuing hands-on practice with advanced Java concepts, file handling, and algorithm implementations.
+
+
+### Date: 17-02-2025
+
+- Topic Covered:
+  - Runtime Analysis
+  - Understanding Big-O Notation
+  - Time Complexity Analysis
+  - Space Complexity Analysis
+  - Best, Worst, and Average Case Complexities
+  - Practical Guidelines for Optimizing Java Code
+
+- Practice Work:
+  - Analyzed and documented runtime performance and complexity analysis of various algorithms.
+  - Implemented Big-O Notation concepts through sample Java code.
+  - Evaluated time and space complexity for different algorithms.
+  - Studied and documented best, worst, and average case complexities.
+  - Applied practical optimization techniques to enhance Java code performance.
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.
+
+- Ongoing Learning:
+  - Continuing hands-on practice with Java code optimization, complexity analysis, and algorithm performance improvements.
