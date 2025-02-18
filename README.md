@@ -255,3 +255,25 @@ This repository contains the progress and work done for the Java learning journe
 
 - Ongoing Learning:
   - Continuing hands-on practice with Java code optimization, complexity analysis, and algorithm performance improvements.
+
+
+
+### Date: 18-02-2025
+
+- Topic Covered:
+  - Generics in Java
+  - Introduction to Generics
+  - Type Parameters
+  - Generic Classes
+  - Generic Methods
+  - Bounded Type Parameters
+  - Wildcards
+
+- Practice Work:
+  - Implemented and documented Java Generics with examples.
+  - Created generic classes and methods to handle various data types.
+  - Explored bounded type parameters and wildcard usage for flexibility.
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.
+
+- Ongoing Learning:
+  - Continuing hands-on practice with Java Generics, type safety, and reusable code.
