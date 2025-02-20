@@ -277,3 +277,25 @@ This repository contains the progress and work done for the Java learning journe
 
 - Ongoing Learning:
   - Continuing hands-on practice with Java Generics, type safety, and reusable code.
+
+
+  ### Date: 19-02-2025
+
+- **Topic Covered:**  
+  - Collections Framework Overview  
+  - Hierarchy of Collections Framework  
+  - List Interface and Implementing Classes  
+  - Set Interface and Implementing Classes  
+  - Queue and Deque Interfaces  
+  - Map Interface and Its Implementations  
+  - Comparison of Different Implementations  
+  - Real-World Use Cases and Best Practices  
+
+- **Practice Work:**  
+  - Explored and implemented various collection interfaces and their real-world applications.  
+  - Compared different implementations of List, Set, Queue, and Map in terms of performance and use cases.  
+  - Studied best practices for using collections efficiently.  
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.  
+
+- **Ongoing Learning:**  
+  - Continuing hands-on practice with Java Collections, optimizing performance, and understanding advanced use cases.  
