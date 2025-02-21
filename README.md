@@ -319,3 +319,26 @@ This repository contains the progress and work done for the Java learning journe
 
 - **Ongoing Learning:**  
   - Continuing hands-on practice with Java I/O Streams and refining skills in file and object handling.
+
+
+### Date: 21-02-2025
+
+- **Topic Covered:**  
+  - Exceptions in Java  
+  - Checked Exceptions  
+  - Unchecked Exceptions  
+  - Custom Exceptions  
+  - Handling Exceptions with try-catch and try-catch-finally  
+  - try-with-resources statement  
+  - throws clause and throw statement  
+  - Creating Custom Exceptions by Extending the Exception Class  
+  - Defining Constructors for Custom Exceptions  
+
+- **Practice Work:**  
+  - Explored and implemented exception handling techniques in Java.  
+  - Created custom exceptions and applied best practices for error handling.  
+  - Implemented try-catch blocks and explored how the try-with-resources statement works.  
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.  
+
+- **Ongoing Learning:**  
+  - Continuing to refine exception handling strategies, including managing resources efficiently with try-with-resources.
