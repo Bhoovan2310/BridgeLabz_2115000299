@@ -279,7 +279,7 @@ This repository contains the progress and work done for the Java learning journe
   - Continuing hands-on practice with Java Generics, type safety, and reusable code.
 
 
-  ### Date: 19-02-2025
+### Date: 19-02-2025
 
 - **Topic Covered:**  
   - Collections Framework Overview  
@@ -299,3 +299,23 @@ This repository contains the progress and work done for the Java learning journe
 
 - **Ongoing Learning:**  
   - Continuing hands-on practice with Java Collections, optimizing performance, and understanding advanced use cases.  
+
+
+### Date: 20-02-2025
+
+- **Topic Covered:**  
+  - Java I/O Streams  
+  - File Streams  
+  - Object Streams  
+  - ByteArray Streams  
+  - Buffered Streams  
+  - Reader and Writer Streams  
+
+- **Practice Work:**  
+  - Implemented different types of streams for handling input and output operations in Java.  
+  - Explored use cases and functionality of each stream type.  
+  - Applied best practices for efficient I/O operations.  
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.  
+
+- **Ongoing Learning:**  
+  - Continuing hands-on practice with Java I/O Streams and refining skills in file and object handling.
