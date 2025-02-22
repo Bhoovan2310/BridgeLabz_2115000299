@@ -342,3 +342,37 @@ This repository contains the progress and work done for the Java learning journe
 
 - **Ongoing Learning:**  
   - Continuing to refine exception handling strategies, including managing resources efficiently with try-with-resources.
+
+
+### Date: 22-02-2025
+
+- **Topic Covered:**  
+  - Regex  
+  - MetaCharacter  
+  - Quantifier  
+  - Common Patterns:  
+    - Email Validation  
+    - Password Strength  
+    - Phone Number Format  
+  - Java Regex API  
+    - Pattern  
+    - Matcher  
+  - Methods:  
+    - find()  
+    - matches()  
+    - replaceAll()  
+  - Introduction to JUnit Framework  
+  - JUnit Annotations  
+  - Writing Test Cases  
+  - Structure of a Test Class  
+  - Assertions  
+
+- **Practice Work:**  
+  - Explored Regex patterns and their applications in Java.  
+  - Implemented email validation, password strength check, and phone number format using regular expressions.  
+  - Worked with the Java Regex API, using Pattern and Matcher to find, match, and replace strings.  
+  - Understood the JUnit framework, including writing test cases, using annotations, and applying assertions.  
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.  
+
+- **Ongoing Learning:**  
+  - Continuing to refine my understanding of regular expressions and JUnit testing practices for future assignments.
