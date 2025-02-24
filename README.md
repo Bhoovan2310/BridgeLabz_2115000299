@@ -376,3 +376,31 @@ This repository contains the progress and work done for the Java learning journe
 
 - **Ongoing Learning:**  
   - Continuing to refine my understanding of regular expressions and JUnit testing practices for future assignments.
+
+
+### Date: 24-02-2025
+
+- **Topic Covered:**  
+  - Introduction to Annotations  
+  - Common Built-in Annotations  
+  - Creating Custom Annotations  
+  - Advanced Custom Annotations  
+  - Real-World Use Cases of Annotations  
+  - Annotation Processing Tools  
+  - Reflection in Java  
+  - Understanding of Reflection  
+  - Using Reflection in Java  
+  - Annotations and Reflection  
+
+- **Practice Work:**  
+  - Explored built-in Java annotations and their significance.  
+  - Created and implemented custom annotations for various use cases.  
+  - Studied advanced annotation concepts, including retention policies and targets.  
+  - Understood annotation processing tools and their applications.  
+  - Learned about Java Reflection and how it interacts with annotations.  
+  - Practiced retrieving annotation details using Java Reflection API.  
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.  
+
+- **Ongoing Learning:**  
+  - Continuing to deepen my knowledge of annotations and reflection for more complex applications.  
+  - Exploring real-world annotation processing tools and their integration with frameworks like Spring.  
