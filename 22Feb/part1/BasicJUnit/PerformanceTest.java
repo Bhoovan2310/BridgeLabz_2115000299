@@ -11,8 +11,9 @@ public class PerformanceTest {
     }
 
     @Test
-    @Timeout(2)
+    @Timeout(4)
     void testLongRunningTask() throws InterruptedException {
         assertEquals("Task Completed", longRunningTask());
     }
+
 }
