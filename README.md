@@ -404,3 +404,24 @@ This repository contains the progress and work done for the Java learning journe
 - **Ongoing Learning:**  
   - Continuing to deepen my knowledge of annotations and reflection for more complex applications.  
   - Exploring real-world annotation processing tools and their integration with frameworks like Spring.  
+
+
+### Date: 25-02-2025
+
+- **Topic Covered:**  
+  - Introduction to CSV  
+  - Reading CSV Files  
+  - Writing CSV Files  
+  - Parsing CSV Data  
+  - Data Validation  
+
+- **Practice Work:**  
+  - Explored different ways to read and write CSV files in Java.  
+  - Implemented CSV parsing techniques to extract meaningful data.  
+  - Applied validation techniques to ensure data consistency and correctness.  
+  - Practiced filtering, modifying, and searching records in CSV files.  
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.  
+
+- **Ongoing Learning:**  
+  - Exploring advanced CSV processing techniques, including handling large datasets efficiently.  
+  - Understanding integration of CSV processing with databases and APIs.  
