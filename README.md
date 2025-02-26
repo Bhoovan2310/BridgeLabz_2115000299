@@ -425,3 +425,20 @@ This repository contains the progress and work done for the Java learning journe
 - **Ongoing Learning:**  
   - Exploring advanced CSV processing techniques, including handling large datasets efficiently.  
   - Understanding integration of CSV processing with databases and APIs.  
+
+
+### Date: 26-02-2025  
+
+- **Topic Covered:**  
+  - Introduction to JSON  
+  - Reading JSON Data  
+  - Writing JSON Data  
+  - Parsing JSON Data  
+  - JSON Schema Validation  
+
+- **Practice Work:**  
+  - Explored different ways to read and write JSON data in Java.  
+  - Implemented JSON parsing techniques to extract and process data.  
+  - Applied JSON Schema validation to ensure data structure correctness.  
+  - Practiced handling JSON objects and arrays efficiently.  
+  - Pushed the assignment to a GitHub branch and updated the `README.md` with key learnings.  
